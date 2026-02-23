@@ -1,0 +1,97 @@
+/* Cyberpunk + Sports theme */
+:root {
+  /* Dark base */
+  --color-bg: #0a0e14;
+  --color-surface: #12171f;
+  --color-surface-elevated: #1a2029;
+  --color-navy: #e6edf3;
+  --color-navy-muted: #7d8b99;
+  --color-text: #e6edf3;
+  --color-text-muted: #8b949e;
+  /* Neon + sports accents */
+  --color-accent: #ff3366;
+  --color-accent-soft: rgba(255, 51, 102, 0.15);
+  --color-neon-cyan: #00f5ff;
+  --color-neon-cyan-soft: rgba(0, 245, 255, 0.12);
+  --color-neon-magenta: #e879f9;
+  --color-neon-magenta-soft: rgba(232, 121, 249, 0.12);
+  --color-sports-gold: #fbbf24;
+  /* Typography */
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Orbitron", "DM Sans", sans-serif;
+  --radius: 8px;
+  --radius-sm: 6px;
+  --shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --glow-cyan: 0 0 20px rgba(0, 245, 255, 0.35);
+  --glow-accent: 0 0 20px rgba(255, 51, 102, 0.4);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  color-scheme: dark;
+}
+
+/* Subtle grid overlay for cyberpunk feel */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(0, 245, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 245, 255, 0.02) 1px, transparent 1px);
+  background-size: 28px 28px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+#root {
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+}
+
+/* Shared page header (Analytics, AI Assistant) */
+.page-header {
+  padding: 2rem 2.5rem;
+  background: var(--color-surface);
+  border-bottom: 1px solid rgba(0, 245, 255, 0.12);
+  position: relative;
+}
+
+.page-header::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 2.5rem;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-neon-cyan), var(--color-accent));
+  opacity: 0.9;
+}
+
+.page-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 0.25rem;
+  letter-spacing: 0.02em;
+}
+
+.page-subtitle {
+  font-size: 0.9375rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}

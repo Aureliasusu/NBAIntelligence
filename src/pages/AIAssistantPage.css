@@ -1,0 +1,17 @@
+/* Page header from index.css */
+
+.ai-assistant-main {
+  flex: 1;
+  padding: 2rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.chatbox-wrapper {
+  flex: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  width: 100%;
+  min-height: 480px;
+}

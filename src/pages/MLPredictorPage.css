@@ -1,0 +1,411 @@
+/* Page header from index.css */
+
+.ml-predictor-main {
+  flex: 1;
+  padding: 2rem 2.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.ml-loading,
+.ml-error,
+.ml-no-data {
+  padding: 2rem;
+  text-align: center;
+  color: var(--color-text-muted);
+}
+
+.ml-error {
+  color: var(--color-accent);
+}
+
+.ml-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.15);
+}
+
+.ml-tab {
+  padding: 0.6rem 1.2rem;
+  background: transparent;
+  border: none;
+  color: var(--color-text-muted);
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.ml-tab:hover {
+  color: var(--color-text);
+}
+
+.ml-tab.active {
+  color: var(--color-neon-cyan);
+  border-bottom-color: var(--color-neon-cyan);
+}
+
+.ml-section {
+  margin-top: 1rem;
+}
+
+.ml-section-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 0.5rem;
+}
+
+.ml-section-desc {
+  font-size: 0.9375rem;
+  color: var(--color-text-muted);
+  margin: 0 0 1.5rem;
+}
+
+.ml-page-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.15);
+}
+
+.ml-page-tab {
+  padding: 0.6rem 1.2rem;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  color: var(--color-text-muted);
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.ml-page-tab:hover {
+  color: var(--color-text);
+}
+
+.ml-page-tab.active {
+  color: var(--color-neon-cyan);
+  border-bottom-color: var(--color-neon-cyan);
+  font-weight: 600;
+}
+
+.ml-coming-soon-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  padding: 3rem 2rem;
+  text-align: center;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.ml-coming-soon-icon {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+  line-height: 1;
+  color: var(--color-neon-cyan);
+  opacity: 0.7;
+}
+
+.ml-coming-soon-title {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 0.75rem;
+}
+
+.ml-coming-soon-text {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 420px;
+  margin: 0 0 1rem;
+  line-height: 1.55;
+}
+
+.ml-coming-soon-hint {
+  font-size: 0.9375rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  opacity: 0.9;
+}
+
+.ml-coming-soon-hint strong {
+  color: var(--color-neon-cyan);
+}
+
+.ml-fantasy-explainer {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.ml-fantasy-explainer .ml-section-title {
+  margin-top: 0;
+}
+
+.ml-explainer-block {
+  margin-bottom: 1.25rem;
+}
+
+.ml-explainer-block:last-child {
+  margin-bottom: 0;
+}
+
+.ml-explainer-subtitle {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--color-neon-cyan);
+  margin: 0 0 0.4rem;
+}
+
+.ml-explainer-text {
+  font-size: 0.9375rem;
+  color: var(--color-text-muted);
+  margin: 0 0 0.5rem;
+  line-height: 1.55;
+}
+
+.ml-explainer-formula {
+  font-size: 0.9rem;
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.6rem 0.75rem;
+  background: var(--color-surface-elevated);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--color-neon-cyan);
+  overflow-x: auto;
+}
+
+.ml-scatter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.ml-scatter-wrap {
+  padding: 1rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.ml-scatter-wrap.champion-panel {
+  border-color: var(--color-neon-cyan);
+  box-shadow: 0 0 0 1px var(--color-neon-cyan), var(--glow-cyan);
+}
+
+.ml-scatter-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin: 0 0 0.5rem;
+}
+
+.ml-scatter-plot-title {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  fill: var(--color-text-muted);
+}
+
+.ml-scatter-wrap.champion-panel .ml-scatter-plot-title.champion-title {
+  fill: var(--color-neon-cyan);
+  font-weight: 700;
+}
+
+.ml-scatter-tick-label {
+  font-size: 0.65rem;
+  fill: var(--color-text-muted);
+}
+
+.ml-scatter {
+  display: block;
+}
+
+.ml-scatter-axis-label {
+  font-size: 0.7rem;
+  fill: var(--color-text-muted);
+}
+
+.ml-champion-badge {
+  padding: 0.75rem 1rem;
+  background: var(--color-neon-cyan-soft);
+  border-radius: var(--radius);
+  margin-bottom: 1.5rem;
+  color: var(--color-neon-cyan);
+}
+
+.ml-metrics-table-wrap,
+.ml-players-table-wrap {
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.ml-metrics-table,
+.ml-players-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.ml-metrics-table th,
+.ml-metrics-table td,
+.ml-players-table th,
+.ml-players-table td {
+  padding: 0.6rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(0, 245, 255, 0.08);
+}
+
+.ml-metrics-table th,
+.ml-players-table th {
+  background: var(--color-surface-elevated);
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.ml-metrics-table tr.champion {
+  background: var(--color-neon-cyan-soft);
+}
+
+.ml-metrics-table tr.champion td {
+  color: var(--color-neon-cyan);
+}
+
+.ml-team-select-wrap,
+.ml-games-select-wrap {
+  margin-bottom: 1rem;
+}
+
+.ml-team-select-wrap label,
+.ml-games-select-wrap label {
+  display: block;
+  font-size: 0.8125rem;
+  color: var(--color-text-muted);
+  margin-bottom: 0.35rem;
+}
+
+.ml-team-select,
+.ml-games-select {
+  padding: 0.5rem 0.75rem;
+  background: var(--color-surface);
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  min-width: 180px;
+}
+
+.ml-user-confidence-controls {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.ml-player-scatter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.ml-team-scatter-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.ml-team-scatter-plot {
+  flex: 0 0 auto;
+  position: relative;
+  padding: 1rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.12);
+}
+
+.ml-scatter-tooltip {
+  position: absolute;
+  z-index: 10;
+  pointer-events: none;
+  padding: 0.5rem 0.75rem;
+  background: var(--color-surface-elevated);
+  border: 1px solid rgba(0, 245, 255, 0.3);
+  border-radius: var(--radius-sm);
+  font-size: 0.8125rem;
+  color: var(--color-text);
+  box-shadow: var(--shadow);
+  white-space: nowrap;
+}
+
+.ml-scatter-tooltip div + div {
+  margin-top: 0.2rem;
+}
+
+.ml-team-scatter-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  font-size: 0.8125rem;
+  color: var(--color-text-muted);
+}
+
+.ml-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.ml-legend-item:hover {
+  color: var(--color-text);
+}
+
+.ml-legend-item-hidden {
+  opacity: 0.45;
+  text-decoration: line-through;
+}
+
+.ml-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.ml-player-scatter-wrap {
+  padding: 1rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  border: 1px solid rgba(232, 121, 249, 0.15);
+}
+
+.ml-player-scatter-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin: 0 0 0.5rem;
+}

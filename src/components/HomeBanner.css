@@ -1,0 +1,112 @@
+.home-banner {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.home-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: clamp(2rem, 6vw, 4rem);
+  padding: 0 clamp(1rem, 4vw, 2rem);
+  height: 100%;
+  animation: banner-scroll 45s linear infinite;
+}
+
+.home-banner-inner .home-banner-icon-wrap {
+  transform: translateY(var(--float-offset, 0));
+  animation: banner-float var(--float-duration, 3s) ease-in-out var(--float-delay, 0s) infinite alternate;
+}
+
+.home-banner--hero .home-banner-inner {
+  animation: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1rem;
+  place-items: center;
+  padding: 2rem;
+}
+
+.home-banner--hero .home-banner-icon-wrap {
+  opacity: 0.5;
+}
+
+.home-banner--hero .home-banner-mask {
+  display: none;
+}
+
+@keyframes banner-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes banner-float {
+  0%, 100% { transform: translateY(var(--float-offset, 0)); }
+  50% { transform: translateY(calc(var(--float-offset, 0) + var(--float-delta, 10px))); }
+}
+
+.home-banner-icon-wrap {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: clamp(40px, 10vw, 64px);
+  height: clamp(40px, 10vw, 64px);
+  color: rgba(0, 245, 255, 0.08);
+  transition: color 0.3s ease;
+}
+
+.home-banner:hover .home-banner-icon-wrap {
+  color: rgba(0, 245, 255, 0.12);
+}
+
+.home-banner-icon-wrap .banner-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.home-banner--hero .home-banner-icon-wrap {
+  width: clamp(48px, 12vw, 80px);
+  height: clamp(48px, 12vw, 80px);
+  color: rgba(0, 245, 255, 0.06);
+  transform: translateY(var(--float-offset, 0));
+  animation: banner-float var(--float-duration, 3s) ease-in-out var(--float-delay, 0s) infinite alternate;
+}
+
+.home-banner--hero:hover .home-banner-icon-wrap {
+  color: rgba(0, 245, 255, 0.1);
+}
+
+.home-banner-mask {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 20%;
+  max-width: 120px;
+  pointer-events: none;
+}
+
+.home-banner-mask--start {
+  left: 0;
+  background: linear-gradient(90deg, var(--color-surface) 0%, transparent 100%);
+}
+
+.home-banner-mask--end {
+  right: 0;
+  left: auto;
+  background: linear-gradient(270deg, var(--color-surface) 0%, transparent 100%);
+}
+
+.home-banner--hero .home-banner-mask {
+  width: 15%;
+  background: linear-gradient(90deg, var(--color-bg) 0%, transparent 100%);
+}
+
+.home-banner--hero .home-banner-mask--end {
+  background: linear-gradient(270deg, var(--color-bg) 0%, transparent 100%);
+}

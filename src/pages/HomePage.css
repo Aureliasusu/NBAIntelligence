@@ -1,0 +1,188 @@
+.home-header {
+  padding: 3rem 2rem 3.5rem;
+  background: var(--color-surface);
+  border-bottom: 1px solid rgba(0, 245, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle radial glow behind logo area */
+.home-header::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 140%;
+  max-width: 600px;
+  height: 200px;
+  background: radial-gradient(ellipse at center, rgba(0, 245, 255, 0.06) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.home-header-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+}
+
+.home-logo {
+  height: clamp(100px, 18vw, 160px);
+  width: clamp(100px, 18vw, 160px);
+  display: block;
+  object-fit: cover;
+  border-radius: 50%;
+  filter: drop-shadow(0 0 20px rgba(0, 245, 255, 0.2));
+}
+
+.home-tagline {
+  font-family: var(--font-display);
+  font-size: clamp(0.7rem, 1.5vw, 0.8rem);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.home-header-accent {
+  width: 80px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--color-neon-cyan), var(--color-accent), transparent);
+  opacity: 0.8;
+  margin-top: 0.25rem;
+}
+
+.home-main {
+  flex: 1;
+  padding: 4rem 2rem 5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.hero {
+  position: relative;
+  text-align: center;
+  padding: 3rem 0 4rem;
+  overflow: hidden;
+}
+
+.hero .hero-title,
+.hero .hero-subtitle {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
+  font-weight: 800;
+  margin: 0 0 1rem;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+  max-width: 18ch;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(135deg, var(--color-neon-cyan) 0%, var(--color-text) 50%, var(--color-accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: none;
+}
+
+.hero-subtitle {
+  font-size: 1.125rem;
+  color: var(--color-text-muted);
+  margin: 0 0 2rem;
+  max-width: 42ch;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 3rem;
+}
+
+.features .feature-card {
+  background: var(--color-surface);
+  padding: 2.25rem;
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 245, 255, 0.2);
+  box-shadow: var(--shadow);
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.features .feature-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--color-neon-cyan), var(--color-accent), transparent);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.features .feature-card:hover {
+  border-color: var(--color-neon-cyan);
+  box-shadow: var(--glow-cyan), var(--shadow-hover);
+  transform: translateY(-4px);
+}
+
+.features .feature-card:hover::before {
+  opacity: 1;
+}
+
+.feature-icon {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.features .feature-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.features .feature-card p {
+  font-size: 0.9375rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.footer {
+  padding: 1.5rem 2rem;
+  text-align: center;
+  background: var(--color-surface);
+  border-top: 1px solid rgba(0, 245, 255, 0.12);
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+}
+
+.footer p {
+  margin: 0;
+}

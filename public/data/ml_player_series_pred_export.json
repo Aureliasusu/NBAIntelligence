@@ -1,0 +1,2441 @@
+{
+  "A.J. Green|MIL": {
+    "player": "A.J. Green",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 13.978689340557768
+      }
+    ]
+  },
+  "Aaron Gordon|DEN": {
+    "player": "Aaron Gordon",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 19.28035239873814
+      }
+    ]
+  },
+  "Aaron Nesmith|IND": {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 19.259260415889887
+      }
+    ]
+  },
+  "Aaron Wiggins|OKC": {
+    "player": "Aaron Wiggins",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 27.48208504160465
+      }
+    ]
+  },
+  "Adam Flagler|OKC": {
+    "player": "Adam Flagler",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 6.844423650611521
+      }
+    ]
+  },
+  "Adem Bona|PHI": {
+    "player": "Adem Bona",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 11.213385629531809
+      }
+    ]
+  },
+  "Al Horford|BOS": {
+    "player": "Al Horford",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 11.393593584168284
+      }
+    ]
+  },
+  "Alex Caruso|OKC": {
+    "player": "Alex Caruso",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 10.057211816636151
+      }
+    ]
+  },
+  "Alex Ducas|OKC": {
+    "player": "Alex Ducas",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 9.532912432800497
+      }
+    ]
+  },
+  "Alperen \u015eeng\u00fcn|HOU": {
+    "player": "Alperen \u015eeng\u00fcn",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 36.75228524881618
+      }
+    ]
+  },
+  "Amen Thompson|HOU": {
+    "player": "Amen Thompson",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 41.64701713501364
+      }
+    ]
+  },
+  "Amir Coffey|LAC": {
+    "player": "Amir Coffey",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 15.638077375549946
+      }
+    ]
+  },
+  "Andre Jackson Jr.|MIL": {
+    "player": "Andre Jackson Jr.",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 16.288932977814262
+      }
+    ]
+  },
+  "Andrew Nembhard|IND": {
+    "player": "Andrew Nembhard",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 28.60726182982364
+      }
+    ]
+  },
+  "Anfernee Simons|POR": {
+    "player": "Anfernee Simons",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 29.26960832144057
+      }
+    ]
+  },
+  "Anthony Black|ORL": {
+    "player": "Anthony Black",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 12.967913353902643
+      }
+    ]
+  },
+  "Anthony Edwards|MIN": {
+    "player": "Anthony Edwards",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 46.67113226210287
+      }
+    ]
+  },
+  "Anthony Gill|WAS": {
+    "player": "Anthony Gill",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 4.695795945151797
+      }
+    ]
+  },
+  "Antonio Reeves|NOP": {
+    "player": "Antonio Reeves",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 6.296716843287115
+      }
+    ]
+  },
+  "Ariel Hukporti|NYK": {
+    "player": "Ariel Hukporti",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 5.370495511542741
+      }
+    ]
+  },
+  "Ausar Thompson|DET": {
+    "player": "Ausar Thompson",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 22.636639721045352
+      }
+    ]
+  },
+  "Austin Reaves|LAL": {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 36.59420509174642
+      }
+    ]
+  },
+  "Ayo Dosunmu|CHI": {
+    "player": "Ayo Dosunmu",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 24.20453459962533
+      }
+    ]
+  },
+  "Bam Adebayo|MIA": {
+    "player": "Bam Adebayo",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 43.01198378440271
+      }
+    ]
+  },
+  "Ben Sheppard|IND": {
+    "player": "Ben Sheppard",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 16.68411996170557
+      }
+    ]
+  },
+  "Bennedict Mathurin|IND": {
+    "player": "Bennedict Mathurin",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 18.366139212456034
+      }
+    ]
+  },
+  "Bilal Coulibaly|WAS": {
+    "player": "Bilal Coulibaly",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 27.348751260181984
+      }
+    ]
+  },
+  "Bobby Portis|MIL": {
+    "player": "Bobby Portis",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 22.212480772474432
+      }
+    ]
+  },
+  "Bol Bol|PHO": {
+    "player": "Bol Bol",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 6.812615741051946
+      }
+    ]
+  },
+  "Brandin Podziemski|GSW": {
+    "player": "Brandin Podziemski",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 21.944825275674432
+      }
+    ]
+  },
+  "Brice Sensabaugh|UTA": {
+    "player": "Brice Sensabaugh",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 13.708080317844324
+      }
+    ]
+  },
+  "Brook Lopez|MIL": {
+    "player": "Brook Lopez",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 23.387244608024506
+      }
+    ]
+  },
+  "Buddy Hield|GSW": {
+    "player": "Buddy Hield",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 15.403415927604174
+      }
+    ]
+  },
+  "CJ McCollum|NOP": {
+    "player": "CJ McCollum",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 30.497196500256443
+      }
+    ]
+  },
+  "Caleb Houstan|ORL": {
+    "player": "Caleb Houstan",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 7.388410258644241
+      }
+    ]
+  },
+  "Cam Whitmore|HOU": {
+    "player": "Cam Whitmore",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 19.743735801987963
+      }
+    ]
+  },
+  "Cameron Johnson|BRK": {
+    "player": "Cameron Johnson",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 29.94822614419845
+      }
+    ]
+  },
+  "Cameron Payne|NYK": {
+    "player": "Cameron Payne",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 10.68241766924855
+      }
+    ]
+  },
+  "Carlton Carrington|WAS": {
+    "player": "Carlton Carrington",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 10.933835706640572
+      }
+    ]
+  },
+  "Chris Paul|SAS": {
+    "player": "Chris Paul",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 26.90785181541338
+      }
+    ]
+  },
+  "Christian Braun|DEN": {
+    "player": "Christian Braun",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 29.109401151764775
+      }
+    ]
+  },
+  "Coby White|CHI": {
+    "player": "Coby White",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 32.30963828884323
+      }
+    ]
+  },
+  "Cole Anthony|ORL": {
+    "player": "Cole Anthony",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 30.17336637315457
+      }
+    ]
+  },
+  "Corey Kispert|WAS": {
+    "player": "Corey Kispert",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 21.38602708192082
+      }
+    ]
+  },
+  "Craig Porter Jr.|CLE": {
+    "player": "Craig Porter Jr.",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 8.039946289827187
+      }
+    ]
+  },
+  "D'Angelo Russell|BRK": {
+    "player": "D'Angelo Russell",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 27.746804977404555
+      }
+    ]
+  },
+  "DaQuan Jeffries|CHO": {
+    "player": "DaQuan Jeffries",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 9.142120258571037
+      }
+    ]
+  },
+  "Dalano Banton|POR": {
+    "player": "Dalano Banton",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 12.395505303758227
+      }
+    ]
+  },
+  "Damian Lillard|MIL": {
+    "player": "Damian Lillard",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 38.510631195218714
+      }
+    ]
+  },
+  "Damion Lee|PHO": {
+    "player": "Damion Lee",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 7.7418211115637625
+      }
+    ]
+  },
+  "Daniel Gafford|DAL": {
+    "player": "Daniel Gafford",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 37.301694759558615
+      }
+    ]
+  },
+  "Dante Exum|DAL": {
+    "player": "Dante Exum",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 14.712741275107188
+      }
+    ]
+  },
+  "Darius Garland|CLE": {
+    "player": "Darius Garland",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 37.61263998753057
+      }
+    ]
+  },
+  "Day'Ron Sharpe|BRK": {
+    "player": "Day'Ron Sharpe",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 19.961008933001867
+      }
+    ]
+  },
+  "De'Aaron Fox|SAS": {
+    "player": "De'Aaron Fox",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 35.601341166386334
+      }
+    ]
+  },
+  "DeAndre Jordan|DEN": {
+    "player": "DeAndre Jordan",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 11.699539899767844
+      }
+    ]
+  },
+  "DeMar DeRozan|SAC": {
+    "player": "DeMar DeRozan",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 31.780507496620274
+      }
+    ]
+  },
+  "Deandre Ayton|POR": {
+    "player": "Deandre Ayton",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 36.02645030647666
+      }
+    ]
+  },
+  "Deni Avdija|POR": {
+    "player": "Deni Avdija",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 39.104270387038866
+      }
+    ]
+  },
+  "Derrick Jones Jr.|LAC": {
+    "player": "Derrick Jones Jr.",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 22.035024385007656
+      }
+    ]
+  },
+  "Derrick White|BOS": {
+    "player": "Derrick White",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 29.296856254635053
+      }
+    ]
+  },
+  "Devin Booker|PHO": {
+    "player": "Devin Booker",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 43.900353181998995
+      }
+    ]
+  },
+  "Devin Carter|SAC": {
+    "player": "Devin Carter",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 8.590282698954802
+      }
+    ]
+  },
+  "Devin Vassell|SAS": {
+    "player": "Devin Vassell",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 23.43647865836847
+      }
+    ]
+  },
+  "Dillon Brooks|HOU": {
+    "player": "Dillon Brooks",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 24.95098456977867
+      }
+    ]
+  },
+  "Dillon Jones|OKC": {
+    "player": "Dillon Jones",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 15.330246886337576
+      }
+    ]
+  },
+  "Domantas Sabonis|SAC": {
+    "player": "Domantas Sabonis",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 47.28999548450044
+      }
+    ]
+  },
+  "Dominick Barlow|ATL": {
+    "player": "Dominick Barlow",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 9.45672080530229
+      }
+    ]
+  },
+  "Dorian Finney-Smith|LAL": {
+    "player": "Dorian Finney-Smith",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 16.509094397042226
+      }
+    ]
+  },
+  "Draymond Green|GSW": {
+    "player": "Draymond Green",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 24.240831180344983
+      }
+    ]
+  },
+  "Drew Eubanks|LAC": {
+    "player": "Drew Eubanks",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 14.885652539268392
+      }
+    ]
+  },
+  "Duncan Robinson|MIA": {
+    "player": "Duncan Robinson",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 15.50442808323891
+      }
+    ]
+  },
+  "Dyson Daniels|ATL": {
+    "player": "Dyson Daniels",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 37.34975226927049
+      }
+    ]
+  },
+  "Eric Gordon|PHI": {
+    "player": "Eric Gordon",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 19.58961239595285
+      }
+    ]
+  },
+  "Evan Mobley|CLE": {
+    "player": "Evan Mobley",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 32.22882841317046
+      }
+    ]
+  },
+  "Franz Wagner|ORL": {
+    "player": "Franz Wagner",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 40.084359586195404
+      }
+    ]
+  },
+  "GG Jackson II|MEM": {
+    "player": "GG Jackson II",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 14.572274792850589
+      }
+    ]
+  },
+  "Gabe Vincent|LAL": {
+    "player": "Gabe Vincent",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 13.629428326924844
+      }
+    ]
+  },
+  "Garrison Mathews|ATL": {
+    "player": "Garrison Mathews",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 12.745336922169413
+      }
+    ]
+  },
+  "Gary Payton II|GSW": {
+    "player": "Gary Payton II",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 16.512840079568555
+      }
+    ]
+  },
+  "Gary Trent Jr.|MIL": {
+    "player": "Gary Trent Jr.",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 13.702919124893757
+      }
+    ]
+  },
+  "Goga Bitadze|ORL": {
+    "player": "Goga Bitadze",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 19.42931866550832
+      }
+    ]
+  },
+  "Gradey Dick|TOR": {
+    "player": "Gradey Dick",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 19.80471818621537
+      }
+    ]
+  },
+  "Grayson Allen|PHO": {
+    "player": "Grayson Allen",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 22.023845486130927
+      }
+    ]
+  },
+  "Harrison Barnes|SAS": {
+    "player": "Harrison Barnes",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 22.66789454735243
+      }
+    ]
+  },
+  "Haywood Highsmith|MIA": {
+    "player": "Haywood Highsmith",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 14.923527493085352
+      }
+    ]
+  },
+  "Hunter Tyson|DEN": {
+    "player": "Hunter Tyson",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 5.881125276329495
+      }
+    ]
+  },
+  "Isaiah Collier|UTA": {
+    "player": "Isaiah Collier",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 28.410244794277254
+      }
+    ]
+  },
+  "Isaiah Hartenstein|OKC": {
+    "player": "Isaiah Hartenstein",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 29.83636974807637
+      }
+    ]
+  },
+  "Isaiah Joe|OKC": {
+    "player": "Isaiah Joe",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 18.914851647244895
+      }
+    ]
+  },
+  "Isaiah Stewart|DET": {
+    "player": "Isaiah Stewart",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 14.541157058796145
+      }
+    ]
+  },
+  "Ivica Zubac|LAC": {
+    "player": "Ivica Zubac",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 33.539037923024026
+      }
+    ]
+  },
+  "Ja Morant|MEM": {
+    "player": "Ja Morant",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 29.340209598829713
+      }
+    ]
+  },
+  "Ja'Kobe Walter|TOR": {
+    "player": "Ja'Kobe Walter",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 18.501340165556453
+      }
+    ]
+  },
+  "Jackson Rowe|GSW": {
+    "player": "Jackson Rowe",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 12.070544031941271
+      }
+    ]
+  },
+  "Jaden McDaniels|MIN": {
+    "player": "Jaden McDaniels",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 31.016400692521422
+      }
+    ]
+  },
+  "Jae'Sean Tate|HOU": {
+    "player": "Jae'Sean Tate",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 12.649814678023295
+      }
+    ]
+  },
+  "Jaime Jaquez Jr.|MIA": {
+    "player": "Jaime Jaquez Jr.",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 18.295998538157534
+      }
+    ]
+  },
+  "Jake LaRavia|MEM": {
+    "player": "Jake LaRavia",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 13.838841888733546
+      }
+    ]
+  },
+  "Jalen Brunson|NYK": {
+    "player": "Jalen Brunson",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 43.22691583868506
+      }
+    ]
+  },
+  "Jalen Duren|DET": {
+    "player": "Jalen Duren",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 36.03149659014371
+      }
+    ]
+  },
+  "Jalen Green|HOU": {
+    "player": "Jalen Green",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 34.874346410459985
+      }
+    ]
+  },
+  "Jalen Pickett|DEN": {
+    "player": "Jalen Pickett",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 7.589850650326298
+      }
+    ]
+  },
+  "Jalen Smith|CHI": {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 21.72015185191622
+      }
+    ]
+  },
+  "Jalen Williams|OKC": {
+    "player": "Jalen Williams",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 37.426588816376295
+      }
+    ]
+  },
+  "Jalen Wilson|BRK": {
+    "player": "Jalen Wilson",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 19.771105328116832
+      }
+    ]
+  },
+  "Jamal Shead|TOR": {
+    "player": "Jamal Shead",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 20.78965099663955
+      }
+    ]
+  },
+  "James Harden|LAC": {
+    "player": "James Harden",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 41.02910895247454
+      }
+    ]
+  },
+  "Jamison Battle|TOR": {
+    "player": "Jamison Battle",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 5.3754279829226395
+      }
+    ]
+  },
+  "Jaren Jackson Jr.|MEM": {
+    "player": "Jaren Jackson Jr.",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 36.74663466110555
+      }
+    ]
+  },
+  "Jarred Vanderbilt|LAL": {
+    "player": "Jarred Vanderbilt",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 15.3563954562538
+      }
+    ]
+  },
+  "Jarrett Allen|CLE": {
+    "player": "Jarrett Allen",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 30.07986604594604
+      }
+    ]
+  },
+  "Javonte Green|NOP": {
+    "player": "Javonte Green",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 17.98969209974324
+      }
+    ]
+  },
+  "Jaxson Hayes|LAL": {
+    "player": "Jaxson Hayes",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 16.78588243875953
+      }
+    ]
+  },
+  "Jay Huff|MEM": {
+    "player": "Jay Huff",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 6.323518744558491
+      }
+    ]
+  },
+  "Jaylen Brown|BOS": {
+    "player": "Jaylen Brown",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 38.78824480800576
+      }
+    ]
+  },
+  "Jaylen Clark|MIN": {
+    "player": "Jaylen Clark",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 11.491394647522458
+      }
+    ]
+  },
+  "Jaylen Wells|MEM": {
+    "player": "Jaylen Wells",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 17.327245365180556
+      }
+    ]
+  },
+  "Jaylin Williams|OKC": {
+    "player": "Jaylin Williams",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 25.218076726400643
+      }
+    ]
+  },
+  "Jaylon Tyson|CLE": {
+    "player": "Jaylon Tyson",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 13.811603127776241
+      }
+    ]
+  },
+  "Jayson Tatum|BOS": {
+    "player": "Jayson Tatum",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 45.14040301871859
+      }
+    ]
+  },
+  "Jerami Grant|POR": {
+    "player": "Jerami Grant",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 23.752537692857455
+      }
+    ]
+  },
+  "Jeremiah Robinson-Earl|NOP": {
+    "player": "Jeremiah Robinson-Earl",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 12.775707800394033
+      }
+    ]
+  },
+  "Jeremy Sochan|SAS": {
+    "player": "Jeremy Sochan",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 20.51888228067557
+      }
+    ]
+  },
+  "Jericho Sims|NYK": {
+    "player": "Jericho Sims",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 6.523205211154151
+      }
+    ]
+  },
+  "Jett Howard|ORL": {
+    "player": "Jett Howard",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 8.139164940845715
+      }
+    ]
+  },
+  "Jevon Carter|CHI": {
+    "player": "Jevon Carter",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 10.117203174609443
+      }
+    ]
+  },
+  "John Collins|UTA": {
+    "player": "John Collins",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 34.22876828669291
+      }
+    ]
+  },
+  "John Konchar|MEM": {
+    "player": "John Konchar",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 9.114646582023306
+      }
+    ]
+  },
+  "Johnny Juzang|UTA": {
+    "player": "Johnny Juzang",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 17.534697850695725
+      }
+    ]
+  },
+  "Jonathan Isaac|ORL": {
+    "player": "Jonathan Isaac",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 14.546974201609114
+      }
+    ]
+  },
+  "Jonathan Mogbo|TOR": {
+    "player": "Jonathan Mogbo",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 12.039539460960127
+      }
+    ]
+  },
+  "Jordan Hawkins|NOP": {
+    "player": "Jordan Hawkins",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 16.952544989816566
+      }
+    ]
+  },
+  "Jordan Poole|WAS": {
+    "player": "Jordan Poole",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 29.899329282135408
+      }
+    ]
+  },
+  "Josh Giddey|CHI": {
+    "player": "Josh Giddey",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 32.673168602387015
+      }
+    ]
+  },
+  "Josh Hart|NYK": {
+    "player": "Josh Hart",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 41.369260237223344
+      }
+    ]
+  },
+  "Julian Champagnie|SAS": {
+    "player": "Julian Champagnie",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 14.480628650623482
+      }
+    ]
+  },
+  "Julian Phillips|CHI": {
+    "player": "Julian Phillips",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 7.731498400009924
+      }
+    ]
+  },
+  "Julian Strawther|DEN": {
+    "player": "Julian Strawther",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 17.319613809514298
+      }
+    ]
+  },
+  "Justin Edwards|PHI": {
+    "player": "Justin Edwards",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 21.560112258040515
+      }
+    ]
+  },
+  "KJ Simpson|CHO": {
+    "player": "KJ Simpson",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 19.108559058956267
+      }
+    ]
+  },
+  "Karl-Anthony Towns|NYK": {
+    "player": "Karl-Anthony Towns",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 42.49719625227503
+      }
+    ]
+  },
+  "Karlo Matkovi\u0107|NOP": {
+    "player": "Karlo Matkovi\u0107",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 9.987467415421442
+      }
+    ]
+  },
+  "Kawhi Leonard|LAC": {
+    "player": "Kawhi Leonard",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 32.33532521384952
+      }
+    ]
+  },
+  "Keaton Wallace|ATL": {
+    "player": "Keaton Wallace",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 12.894591336309738
+      }
+    ]
+  },
+  "Keegan Murray|SAC": {
+    "player": "Keegan Murray",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 26.53646979001595
+      }
+    ]
+  },
+  "Kel'el Ware|MIA": {
+    "player": "Kel'el Ware",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 26.79221157215668
+      }
+    ]
+  },
+  "Keldon Johnson|SAS": {
+    "player": "Keldon Johnson",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 19.90998488990349
+      }
+    ]
+  },
+  "Kelly Oubre Jr.|PHI": {
+    "player": "Kelly Oubre Jr.",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 32.430575163092314
+      }
+    ]
+  },
+  "Kenrich Williams|OKC": {
+    "player": "Kenrich Williams",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 17.18310018170085
+      }
+    ]
+  },
+  "Kentavious Caldwell-Pope|ORL": {
+    "player": "Kentavious Caldwell-Pope",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 16.120162259607962
+      }
+    ]
+  },
+  "Keon Ellis|SAC": {
+    "player": "Keon Ellis",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 19.29746736933232
+      }
+    ]
+  },
+  "Keon Johnson|BRK": {
+    "player": "Keon Johnson",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 27.062448248484998
+      }
+    ]
+  },
+  "Kessler Edwards|DAL": {
+    "player": "Kessler Edwards",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 13.15406192503284
+      }
+    ]
+  },
+  "Kevon Looney|GSW": {
+    "player": "Kevon Looney",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 20.927921685478648
+      }
+    ]
+  },
+  "Keyonte George|UTA": {
+    "player": "Keyonte George",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 33.26220977661522
+      }
+    ]
+  },
+  "Klay Thompson|DAL": {
+    "player": "Klay Thompson",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 20.78431724052044
+      }
+    ]
+  },
+  "Kris Dunn|LAC": {
+    "player": "Kris Dunn",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 11.890591385046775
+      }
+    ]
+  },
+  "Kris Murray|POR": {
+    "player": "Kris Murray",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 8.631692245142386
+      }
+    ]
+  },
+  "Kristaps Porzi\u0146\u0123is|BOS": {
+    "player": "Kristaps Porzi\u0146\u0123is",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 34.93033646403533
+      }
+    ]
+  },
+  "Kyle Filipowski|UTA": {
+    "player": "Kyle Filipowski",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 16.125586787487997
+      }
+    ]
+  },
+  "Kyle Lowry|PHI": {
+    "player": "Kyle Lowry",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 15.580645076332056
+      }
+    ]
+  },
+  "Kyrie Irving|DAL": {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 38.59192293835508
+      }
+    ]
+  },
+  "Kyshawn George|WAS": {
+    "player": "Kyshawn George",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 17.447260956039123
+      }
+    ]
+  },
+  "Larry Nance Jr.|ATL": {
+    "player": "Larry Nance Jr.",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 18.129739032887596
+      }
+    ]
+  },
+  "LeBron James|LAL": {
+    "player": "LeBron James",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 50.48549963937417
+      }
+    ]
+  },
+  "Luka Garza|MIN": {
+    "player": "Luka Garza",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 8.420723630573262
+      }
+    ]
+  },
+  "Luke Kennard|MEM": {
+    "player": "Luke Kennard",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 23.89343121275507
+      }
+    ]
+  },
+  "Luke Kornet|BOS": {
+    "player": "Luke Kornet",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 13.937916732489205
+      }
+    ]
+  },
+  "Malik Beasley|DET": {
+    "player": "Malik Beasley",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 23.121368601261757
+      }
+    ]
+  },
+  "Malik Monk|SAC": {
+    "player": "Malik Monk",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 41.83413285728328
+      }
+    ]
+  },
+  "Marcus Sasser|DET": {
+    "player": "Marcus Sasser",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 13.931047517819707
+      }
+    ]
+  },
+  "Mason Plumlee|PHO": {
+    "player": "Mason Plumlee",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 19.658043531183232
+      }
+    ]
+  },
+  "Matas Buzelis|CHI": {
+    "player": "Matas Buzelis",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 19.53460205406927
+      }
+    ]
+  },
+  "Max Christie|DAL": {
+    "player": "Max Christie",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 20.085421957104735
+      }
+    ]
+  },
+  "Max Strus|CLE": {
+    "player": "Max Strus",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 20.57154489956835
+      }
+    ]
+  },
+  "Micah Potter|UTA": {
+    "player": "Micah Potter",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 12.016611304579438
+      }
+    ]
+  },
+  "Michael Porter Jr.|DEN": {
+    "player": "Michael Porter Jr.",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 31.279467044721564
+      }
+    ]
+  },
+  "Mikal Bridges|NYK": {
+    "player": "Mikal Bridges",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 30.653413489288916
+      }
+    ]
+  },
+  "Mike Conley|MIN": {
+    "player": "Mike Conley",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 20.92368002299415
+      }
+    ]
+  },
+  "Miles Bridges|CHO": {
+    "player": "Miles Bridges",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 45.06047394335324
+      }
+    ]
+  },
+  "Miles McBride|NYK": {
+    "player": "Miles McBride",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 16.888932257397386
+      }
+    ]
+  },
+  "Moussa Diabat\u00e9|CHO": {
+    "player": "Moussa Diabat\u00e9",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 21.78118555866447
+      }
+    ]
+  },
+  "Myles Turner|IND": {
+    "player": "Myles Turner",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 29.552568033632035
+      }
+    ]
+  },
+  "Naji Marshall|DAL": {
+    "player": "Naji Marshall",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 17.50037542107861
+      }
+    ]
+  },
+  "Naz Reid|MIN": {
+    "player": "Naz Reid",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 27.059562879870793
+      }
+    ]
+  },
+  "Nic Claxton|BRK": {
+    "player": "Nic Claxton",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 27.79094407728674
+      }
+    ]
+  },
+  "Nick Richards|PHO": {
+    "player": "Nick Richards",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 21.926709897231937
+      }
+    ]
+  },
+  "Nick Smith Jr.|CHO": {
+    "player": "Nick Smith Jr.",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 22.250072444809756
+      }
+    ]
+  },
+  "Nickeil Alexander-Walker|MIN": {
+    "player": "Nickeil Alexander-Walker",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 19.120019251362404
+      }
+    ]
+  },
+  "Nicolas Batum|LAC": {
+    "player": "Nicolas Batum",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 15.005729128235402
+      }
+    ]
+  },
+  "Nikola Joki\u0107|DEN": {
+    "player": "Nikola Joki\u0107",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 64.26601002554236
+      }
+    ]
+  },
+  "Nikola Jovi\u0107|MIA": {
+    "player": "Nikola Jovi\u0107",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 27.571012049664894
+      }
+    ]
+  },
+  "Nikola Vu\u010devi\u0107|CHI": {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 45.165785482635755
+      }
+    ]
+  },
+  "Norman Powell|LAC": {
+    "player": "Norman Powell",
+    "team": "LAC",
+    "games": [
+      {
+        "y_pred": 33.438983763092864
+      }
+    ]
+  },
+  "Obi Toppin|IND": {
+    "player": "Obi Toppin",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 18.033780403238353
+      }
+    ]
+  },
+  "Ochai Agbaji|TOR": {
+    "player": "Ochai Agbaji",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 16.608700017565127
+      }
+    ]
+  },
+  "Olivier-Maxence Prosper|DAL": {
+    "player": "Olivier-Maxence Prosper",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 18.40890573649032
+      }
+    ]
+  },
+  "Onyeka Okongwu|ATL": {
+    "player": "Onyeka Okongwu",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 28.254799480819575
+      }
+    ]
+  },
+  "Orlando Robinson|TOR": {
+    "player": "Orlando Robinson",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 10.851532978413927
+      }
+    ]
+  },
+  "PJ Hall|DEN": {
+    "player": "PJ Hall",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 4.690421271368251
+      }
+    ]
+  },
+  "Paolo Banchero|ORL": {
+    "player": "Paolo Banchero",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 35.475563903256756
+      }
+    ]
+  },
+  "Pascal Siakam|IND": {
+    "player": "Pascal Siakam",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 39.43795779497894
+      }
+    ]
+  },
+  "Pat Spencer|GSW": {
+    "player": "Pat Spencer",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 8.4293632313296
+      }
+    ]
+  },
+  "Patrick Williams|CHI": {
+    "player": "Patrick Williams",
+    "team": "CHI",
+    "games": [
+      {
+        "y_pred": 25.158874400171847
+      }
+    ]
+  },
+  "Paul George|PHI": {
+    "player": "Paul George",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 22.16520023435578
+      }
+    ]
+  },
+  "Paul Reed|DET": {
+    "player": "Paul Reed",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 10.9052137461825
+      }
+    ]
+  },
+  "Payton Pritchard|BOS": {
+    "player": "Payton Pritchard",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 19.405976004537088
+      }
+    ]
+  },
+  "Pelle Larsson|MIA": {
+    "player": "Pelle Larsson",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 5.372013855219347
+      }
+    ]
+  },
+  "Precious Achiuwa|NYK": {
+    "player": "Precious Achiuwa",
+    "team": "NYK",
+    "games": [
+      {
+        "y_pred": 25.983191171230292
+      }
+    ]
+  },
+  "Quinten Post|GSW": {
+    "player": "Quinten Post",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 16.12312051437253
+      }
+    ]
+  },
+  "Reed Sheppard|HOU": {
+    "player": "Reed Sheppard",
+    "team": "HOU",
+    "games": [
+      {
+        "y_pred": 7.642912091008979
+      }
+    ]
+  },
+  "Richaun Holmes|WAS": {
+    "player": "Richaun Holmes",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 16.192252223568943
+      }
+    ]
+  },
+  "Ricky Council IV|PHI": {
+    "player": "Ricky Council IV",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 20.37503596373798
+      }
+    ]
+  },
+  "Rob Dillingham|MIN": {
+    "player": "Rob Dillingham",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 17.846632610213874
+      }
+    ]
+  },
+  "Ron Holland|DET": {
+    "player": "Ron Holland",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 14.34708880961744
+      }
+    ]
+  },
+  "Royce O'Neale|PHO": {
+    "player": "Royce O'Neale",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 18.8139351447676
+      }
+    ]
+  },
+  "Rudy Gobert|MIN": {
+    "player": "Rudy Gobert",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 34.128908890645285
+      }
+    ]
+  },
+  "Rui Hachimura|LAL": {
+    "player": "Rui Hachimura",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 23.22651048791687
+      }
+    ]
+  },
+  "Ryan Dunn|PHO": {
+    "player": "Ryan Dunn",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 10.775018388517093
+      }
+    ]
+  },
+  "Ryan Rollins|MIL": {
+    "player": "Ryan Rollins",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 14.566083337327438
+      }
+    ]
+  },
+  "Sam Hauser|BOS": {
+    "player": "Sam Hauser",
+    "team": "BOS",
+    "games": [
+      {
+        "y_pred": 14.737330947991683
+      }
+    ]
+  },
+  "Santi Aldama|MEM": {
+    "player": "Santi Aldama",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 24.375890081148814
+      }
+    ]
+  },
+  "Scoot Henderson|POR": {
+    "player": "Scoot Henderson",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 29.988970932612794
+      }
+    ]
+  },
+  "Scottie Barnes|TOR": {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "games": [
+      {
+        "y_pred": 40.54346893430761
+      }
+    ]
+  },
+  "Scotty Pippen Jr.|MEM": {
+    "player": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 18.8520358642482
+      }
+    ]
+  },
+  "Seth Curry|CHO": {
+    "player": "Seth Curry",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 10.547861655505328
+      }
+    ]
+  },
+  "Shaedon Sharpe|POR": {
+    "player": "Shaedon Sharpe",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 20.499155372701193
+      }
+    ]
+  },
+  "Shai Gilgeous-Alexander|OKC": {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "games": [
+      {
+        "y_pred": 43.63535208264093
+      }
+    ]
+  },
+  "Shake Milton|LAL": {
+    "player": "Shake Milton",
+    "team": "LAL",
+    "games": [
+      {
+        "y_pred": 14.717476158264514
+      }
+    ]
+  },
+  "Simone Fontecchio|DET": {
+    "player": "Simone Fontecchio",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 12.12901107770134
+      }
+    ]
+  },
+  "Spencer Dinwiddie|DAL": {
+    "player": "Spencer Dinwiddie",
+    "team": "DAL",
+    "games": [
+      {
+        "y_pred": 19.395200763638886
+      }
+    ]
+  },
+  "Spencer Jones|DEN": {
+    "player": "Spencer Jones",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 4.474916449242581
+      }
+    ]
+  },
+  "Stephen Curry|GSW": {
+    "player": "Stephen Curry",
+    "team": "GSW",
+    "games": [
+      {
+        "y_pred": 31.93642731602464
+      }
+    ]
+  },
+  "Stephon Castle|SAS": {
+    "player": "Stephon Castle",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 32.278454505320795
+      }
+    ]
+  },
+  "Svi Mykhailiuk|UTA": {
+    "player": "Svi Mykhailiuk",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 16.552109597250748
+      }
+    ]
+  },
+  "T.J. McConnell|IND": {
+    "player": "T.J. McConnell",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 19.10434765603864
+      }
+    ]
+  },
+  "Taurean Prince|MIL": {
+    "player": "Taurean Prince",
+    "team": "MIL",
+    "games": [
+      {
+        "y_pred": 19.280210891713676
+      }
+    ]
+  },
+  "Terrence Shannon Jr. |MIN": {
+    "player": "Terrence Shannon Jr. ",
+    "team": "MIN",
+    "games": [
+      {
+        "y_pred": 11.459014239984795
+      }
+    ]
+  },
+  "Terry Rozier|MIA": {
+    "player": "Terry Rozier",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 24.745579639662935
+      }
+    ]
+  },
+  "Thomas Bryant|IND": {
+    "player": "Thomas Bryant",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 16.82303273671633
+      }
+    ]
+  },
+  "Tidjane Sala\u00fcn|CHO": {
+    "player": "Tidjane Sala\u00fcn",
+    "team": "CHO",
+    "games": [
+      {
+        "y_pred": 12.503670475146874
+      }
+    ]
+  },
+  "Tim Hardaway Jr.|DET": {
+    "player": "Tim Hardaway Jr.",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 18.43811270016095
+      }
+    ]
+  },
+  "Tobias Harris|DET": {
+    "player": "Tobias Harris",
+    "team": "DET",
+    "games": [
+      {
+        "y_pred": 25.5519932142646
+      }
+    ]
+  },
+  "Tosan Evbuomwan|BRK": {
+    "player": "Tosan Evbuomwan",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 22.291318513108266
+      }
+    ]
+  },
+  "Toumani Camara|POR": {
+    "player": "Toumani Camara",
+    "team": "POR",
+    "games": [
+      {
+        "y_pred": 28.32234424505132
+      }
+    ]
+  },
+  "Trae Young|ATL": {
+    "player": "Trae Young",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 43.00340297412646
+      }
+    ]
+  },
+  "Trevelin Queen|ORL": {
+    "player": "Trevelin Queen",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 7.256475238837915
+      }
+    ]
+  },
+  "Trey Alexander|DEN": {
+    "player": "Trey Alexander",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 5.45454867851752
+      }
+    ]
+  },
+  "Trey Lyles|SAC": {
+    "player": "Trey Lyles",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 16.03922743059705
+      }
+    ]
+  },
+  "Trey Murphy III|NOP": {
+    "player": "Trey Murphy III",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 40.53572652832043
+      }
+    ]
+  },
+  "Tristan Da Silva|ORL": {
+    "player": "Tristan Da Silva",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 13.002263554214865
+      }
+    ]
+  },
+  "Tristan Vukcevic|WAS": {
+    "player": "Tristan Vukcevic",
+    "team": "WAS",
+    "games": [
+      {
+        "y_pred": 10.186806250672433
+      }
+    ]
+  },
+  "Ty Jerome|CLE": {
+    "player": "Ty Jerome",
+    "team": "CLE",
+    "games": [
+      {
+        "y_pred": 20.665918889714465
+      }
+    ]
+  },
+  "Tyler Herro|MIA": {
+    "player": "Tyler Herro",
+    "team": "MIA",
+    "games": [
+      {
+        "y_pred": 41.334939582937466
+      }
+    ]
+  },
+  "Tyrese Haliburton|IND": {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "games": [
+      {
+        "y_pred": 36.97772815527021
+      }
+    ]
+  },
+  "Tyrese Martin|BRK": {
+    "player": "Tyrese Martin",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 18.22220479068955
+      }
+    ]
+  },
+  "Tyrese Maxey|PHI": {
+    "player": "Tyrese Maxey",
+    "team": "PHI",
+    "games": [
+      {
+        "y_pred": 42.031670268192215
+      }
+    ]
+  },
+  "Tyus Jones|PHO": {
+    "player": "Tyus Jones",
+    "team": "PHO",
+    "games": [
+      {
+        "y_pred": 15.081660879030057
+      }
+    ]
+  },
+  "Victor Wembanyama|SAS": {
+    "player": "Victor Wembanyama",
+    "team": "SAS",
+    "games": [
+      {
+        "y_pred": 47.78713855753218
+      }
+    ]
+  },
+  "Vit Krejci|ATL": {
+    "player": "Vit Krejci",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 18.721908282335782
+      }
+    ]
+  },
+  "Walker Kessler|UTA": {
+    "player": "Walker Kessler",
+    "team": "UTA",
+    "games": [
+      {
+        "y_pred": 30.458947672177683
+      }
+    ]
+  },
+  "Wendell Carter Jr.|ORL": {
+    "player": "Wendell Carter Jr.",
+    "team": "ORL",
+    "games": [
+      {
+        "y_pred": 24.96157719678173
+      }
+    ]
+  },
+  "Yuki Kawamura|MEM": {
+    "player": "Yuki Kawamura",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 5.372988596775038
+      }
+    ]
+  },
+  "Yves Missi|NOP": {
+    "player": "Yves Missi",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 20.4428682719112
+      }
+    ]
+  },
+  "Zaccharie Risacher|ATL": {
+    "player": "Zaccharie Risacher",
+    "team": "ATL",
+    "games": [
+      {
+        "y_pred": 23.97554328202481
+      }
+    ]
+  },
+  "Zach Edey|MEM": {
+    "player": "Zach Edey",
+    "team": "MEM",
+    "games": [
+      {
+        "y_pred": 23.189947480135345
+      }
+    ]
+  },
+  "Zach LaVine|SAC": {
+    "player": "Zach LaVine",
+    "team": "SAC",
+    "games": [
+      {
+        "y_pred": 37.318899623813124
+      }
+    ]
+  },
+  "Zeke Nnaji|DEN": {
+    "player": "Zeke Nnaji",
+    "team": "DEN",
+    "games": [
+      {
+        "y_pred": 14.272062449561371
+      }
+    ]
+  },
+  "Ziaire Williams|BRK": {
+    "player": "Ziaire Williams",
+    "team": "BRK",
+    "games": [
+      {
+        "y_pred": 24.19558378112737
+      }
+    ]
+  },
+  "Zion Williamson|NOP": {
+    "player": "Zion Williamson",
+    "team": "NOP",
+    "games": [
+      {
+        "y_pred": 46.554851523392564
+      }
+    ]
+  }
+}
