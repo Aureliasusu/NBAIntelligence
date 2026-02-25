@@ -16,6 +16,9 @@
   --color-neon-magenta: #e879f9;
   --color-neon-magenta-soft: rgba(232, 121, 249, 0.12);
   --color-sports-gold: #fbbf24;
+  --color-sports-gold-soft: rgba(251, 191, 36, 0.18);
+  --color-sports-gold-border: rgba(251, 191, 36, 0.4);
+  --color-sports-gold-dark: #d97706;
   /* Typography */
   --font-sans: "DM Sans", system-ui, sans-serif;
   --font-display: "Orbitron", "DM Sans", sans-serif;
